@@ -34,15 +34,15 @@ SDKs
 
 - [Web3Modal](https://web3modal.com/)
 - [Web3Wallet](https://docs.walletconnect.com/2.0/web3wallet/about)
-- [Sign SDK](https://docs.walletconnect.com/2.0/api/sign)
-- [Auth SDK](https://docs.walletconnect.com/2.0/api/auth)
-- [Push SDK](https://docs.walletconnect.com/2.0/api/push/prerequisites)
-- [Chat SDK](https://docs.walletconnect.com/2.0/api/chat)
+- [Sign SDK](https://docs.walletconnect.com/2.0/api/sign/overview)
+- [Auth SDK](https://docs.walletconnect.com/2.0/api/auth/overview)
+- [Push SDK](https://docs.walletconnect.com/2.0/api/push/about)
+- [Chat SDK](https://docs.walletconnect.com/2.0/api/chat/about)
 
 Providers
 
-- [Ethereum Provider](https://docs.walletconnect.com/2.0/javascript/providers/ethereum)
-- [Universal Provider](https://docs.walletconnect.com/2.0/javascript/providers/universal)
+- [Ethereum Provider](https://docs.walletconnect.com/2.0/advanced/providers/ethereum)
+- [Universal Provider](https://docs.walletconnect.com/2.0/advanced/providers/universal)
 
 Cloud
 
